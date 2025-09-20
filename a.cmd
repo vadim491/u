@@ -1,1 +1,1 @@
-powershell -command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Test message.', 'tester', 'OK', 'Information')"
+powershell -command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('I love you.', 'like', 'OK', 'Information')"
